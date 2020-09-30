@@ -9,7 +9,8 @@ codingthunder.sql in it
 run command 
 ```
 pip install requremet.txt
-python app.py```
+python app.py
+```
 
 this will start a webserver on the localhost
 
